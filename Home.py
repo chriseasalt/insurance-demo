@@ -60,6 +60,8 @@ def run():
         """,
         unsafe_allow_html=True
     )
+
+    st.write("#### Ready to make a purchase? Contact us today!")
     
 
 
@@ -80,6 +82,8 @@ def run():
     #     - Explore a [New York City rideshare dataset](https://github.com/streamlit/demo-uber-nyc-pickups)
     # """
     # )
+
+
 
 
 if __name__ == "__main__":
